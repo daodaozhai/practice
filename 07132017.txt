@@ -1,1 +1,2 @@
-This is a test project
+
+The English font is not as good looking as Chinese one.
